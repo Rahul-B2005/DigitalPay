@@ -6,7 +6,7 @@ export default {
       colors: {
         ink: '#0B1035',
         indigo: {
-          DEFAULT: '#1B2166',
+          DEFAULT: '#202774',
           950: '#0B1035',
           900: '#141B4D',
           800: '#1B2166',
