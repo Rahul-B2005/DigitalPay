@@ -13,7 +13,7 @@ export default {
           700: '#262E82',
         },
         mint: {
-          DEFAULT: '#17D9A3',
+          DEFAULT: '#21e0aa',
           400: '#3EE6B5',
           500: '#17D9A3',
           600: '#0FB88A',
